@@ -30,3 +30,15 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 For more details, refer to docs/requirements.md.
+
+
+### 🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+### Acknowledgments  
+This is a tutorial I follwed from DataWithBaraa. As of the time writing this, I'm following instructions exactly. I will update the README with changes and other modifications as I continue the project.  
+
+This was my first end to end data engineering project. In this tutorial, I learned a lot of the pre-processing techniques and strategies.
+- I learned how to create a diagram of the architecture by defining the requirements for the Bronze, Silver, and Gold Layers.
+- I learned that tables in each layer need to follow a naming convention for neat and organized tables.
+- To be continued...
